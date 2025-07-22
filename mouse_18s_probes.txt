@@ -1,0 +1,32 @@
+Probe Design Results for NR_003278
+================================================================================
+
+Probe 1:
+  Target Sequence (5' -> 3'): TTGATCCTGCCAGGTAGCATA
+  Probe Sequence (5' -> 3'):  TATGCTACCTGGCAGGATCAA
+  Source: NR_003278.3
+  Position: 6-27
+  Length: 21 bp
+  Melting Temperature: 62.0°C
+  GC Content: 47.6%
+
+
+Probe 2:
+  Target Sequence (5' -> 3'): TGATCCTGCCAGGTAGCATAT
+  Probe Sequence (5' -> 3'):  ATATGCTACCTGGCAGGATCA
+  Source: NR_003278.3
+  Position: 7-28
+  Length: 21 bp
+  Melting Temperature: 62.0°C
+  GC Content: 47.6%
+
+
+Probe 3:
+  Target Sequence (5' -> 3'): GTTGATCCTGCCAGGTAGCAT
+  Probe Sequence (5' -> 3'):  ATGCTACCTGGCAGGATCAAC
+  Source: NR_003278.3
+  Position: 5-26
+  Length: 21 bp
+  Melting Temperature: 64.0°C
+  GC Content: 52.4%
+
